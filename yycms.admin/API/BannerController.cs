@@ -17,7 +17,10 @@ namespace yycms.admin.API
     /// </summary>
     [BasicAuthen]
     public class BannerController : BasicAPI
+
+        
     {
+        //测试修改
         #region  广告列表
         /// <summary>
         /// 获取广告列表
